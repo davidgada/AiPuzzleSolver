@@ -1,4 +1,4 @@
-# 3620 Project: Sliding Tiles
+Sliding Tiles
 
 # Slide-Puzzle
 
